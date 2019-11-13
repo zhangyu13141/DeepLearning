@@ -9,7 +9,8 @@ def relu(X,derive=False):
     if not derive:
         return np.maximum(0,X)
     return(X>0).astype(float)
-nonline=relu
+nonline=relu#nonline=sigmoid
+
 #input
 X=np.array([[0,0,1],
             [0,1,1],
