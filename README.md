@@ -6,4 +6,8 @@
 <a href="https://github.com/zhangyu13141/DeepLearning/blob/master/second MLP.ipynb">手写数字识别--神经网络</a><br>
 <a href="https://github.com/zhangyu13141/DeepLearning/blob/master/k-mnist.ipynb">手写数字识别--卷积神经网络</a><br>
 <a href="https://github.com/zhangyu13141/DeepLearning/blob/master/anima.ipynb">动物,物体识别--卷积神经网络</a><br>
+代码来自--- https://www.bilibili.com/video/av7552365?from=search&seid=824260649150692629:<br>
+<a href="https://github.com/zhangyu13141/DeepLearning/blob/master/nn.py">搭建神经网络</a><br>
+代码来自--https://www.bilibili.com/video/av7717884:<br>
+<a href="https://github.com/zhangyu13141/DeepLearning/blob/master/can.py">搭建神经网络二</a>
 
