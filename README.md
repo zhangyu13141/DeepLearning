@@ -5,4 +5,5 @@
 <a href="https://github.com/zhangyu13141/DeepLearning/blob/master/tf6.ipynb">手写数字识别预处理</a><br>
 <a href="https://github.com/zhangyu13141/DeepLearning/blob/master/second MLP.ipynb">手写数字识别--神经网络</a><br>
 <a href="https://github.com/zhangyu13141/DeepLearning/blob/master/k-mnist.ipynb">手写数字识别--卷积神经网络</a><br>
+<a href="https://github.com/zhangyu13141/DeepLearning/blob/master/anima.ipynb">动物,物体识别--卷积神经网络</a><br>
 
